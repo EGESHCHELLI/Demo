@@ -1,1 +1,2 @@
 this is a demo thing
+this is my first demo project regarding git
